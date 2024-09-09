@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lonylitroa.github.io/sitemap.html.gz
+Sitemap: https://lonylitroa.github.io/app/sitemap.html.gz
+Sitemap: https://lonylitroa.github.io/assets/sitemap.html.gz
+Sitemap: https://lonylitroa.github.io/css/sitemap.html.gz
+Sitemap: https://lonylitroa.github.io/includes/sitemap.html.gz
+Sitemap: https://lonylitroa.github.io/item/sitemap.html.gz
+Sitemap: https://lonylitroa.github.io/src/sitemap.html.gz
